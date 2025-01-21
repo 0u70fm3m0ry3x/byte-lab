@@ -10,6 +10,10 @@ You don't have to install anything.
 ipconfig
 ```
 
+<div class="command">
+  ipconfig
+</div>
+
 ## Usage
 
 ```python
